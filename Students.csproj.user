@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>F:\assignment\大二\数据库\2022-2023%283%29数据库系统课程设计要求Demo及模板\Students\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="frm\frmAvgScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmClaCou.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmClaInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmClaInfoAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmColInfoAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmMainadm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmMainstu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmMaintea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmMajInfoAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmNumberAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmPwdAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmPwdStu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmPwdTea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmScoreAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmScoreIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmSelCou.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmStuInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmStuInfoAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmTeaCou.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmTeaInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmTeaInfoAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
